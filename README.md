@@ -1,4 +1,4 @@
-> Working on batteries for a world of density.
+
 
 [[site](https://www.gabriel.computer)]
 
